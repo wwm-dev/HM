@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Produtos &#8211; HM</title>
+	<atom:link href="http://localhost/site/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>A moda que combina com você</description>
+	<lastBuildDate>Mon, 04 Jan 2021 04:14:06 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Bad Boy</title>
+		<link>./../../product/bad-boy-2/index.html</link>
+					<comments>./../../product/bad-boy-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:46:04 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=801</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/bad-boy-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ulric de Varens</title>
+		<link>./../../product/ulric-de-varens/index.html</link>
+					<comments>./../../product/ulric-de-varens/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:30:39 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=798</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/ulric-de-varens/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ralph Lauren</title>
+		<link>./../../product/ralph-lauren/index.html</link>
+					<comments>./../../product/ralph-lauren/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:29:57 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=796</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/ralph-lauren/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Paco Rabanne</title>
+		<link>./../../product/paco-rabanne/index.html</link>
+					<comments>./../../product/paco-rabanne/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:28:59 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=794</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/paco-rabanne/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>John Varvatos</title>
+		<link>./../../product/john-varvatos/index.html</link>
+					<comments>./../../product/john-varvatos/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:27:50 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=792</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/john-varvatos/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Giorgio Armani</title>
+		<link>./../../product/bad-boy/index.html</link>
+					<comments>./../../product/bad-boy/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:26:05 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=789</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/bad-boy/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Azzaro</title>
+		<link>./../../product/azzaro/index.html</link>
+					<comments>./../../product/azzaro/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:25:22 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=787</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/azzaro/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Antonio Bandeiras</title>
+		<link>./../../product/antonio-bandeiras/index.html</link>
+					<comments>./../../product/antonio-bandeiras/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:24:43 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=785</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/antonio-bandeiras/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>212 Vip</title>
+		<link>./../../product/212-vip/index.html</link>
+					<comments>./../../product/212-vip/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:23:57 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=783</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/212-vip/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>212</title>
+		<link>./../../product/212/index.html</link>
+					<comments>./../../product/212/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 23:23:10 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=781</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/212/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
